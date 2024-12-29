@@ -9,8 +9,8 @@ Hello! I'm Ömer, an R&D specialist and software developer at **H1 Yazılım ve 
 Merhaba! Ben Ömer, Türkiye merkezli **H1 Yazılım ve Danışmanlık LTD. ŞTİ.**'de Ar-Ge uzmanı ve yazılım geliştiricisiyim. Yazılım geliştirme, elektronik ve IoT sistemleri konusunda uzmanlaşmış olup, akıllı ev sistemleri, güvenlik sistemleri ve IoT uygulamaları için yenilikçi çözümler oluşturuyorum. Ayrıca drone pilotuyum ve bilgisayar donanımı konusunda %99 seviyesinde uzmanlığa sahibim.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerfaruk-aran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfaruk-aran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=omerfaruk-aran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfaruk-aran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ### 🧰 Languages and Tools / Diller ve Araçlar
